@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayerchowdhury&show_icons=true&locale=en&layout=compact" alt="jobayerchowdhury" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobayerchowdhury&show_icons=true&locale=en" alt="jobayerchowdhury" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerchowdhury&" alt="jobayerchowdhury" /></p>
