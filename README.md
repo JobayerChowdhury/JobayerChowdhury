@@ -25,3 +25,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerchowdhury&" alt="jobayerchowdhury" /></p>
+
+## 💻 Work Experience
+- Uddok O Uddokta Japan, [Frontend-Intern], [6months]<br />
+  I designed their Frontend. Technologies used: [ReactJS,HTML,CSS
+  ].
+
