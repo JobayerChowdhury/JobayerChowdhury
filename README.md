@@ -31,7 +31,7 @@
   I designed their Frontend. Technologies used: [ReactJS,HTML,CSS
   ].
   
-  ## 🎓 Education
+## 🎓 Education
 - North South University,Bangladesh, [BS CSE], [2018-2022]
 
 
