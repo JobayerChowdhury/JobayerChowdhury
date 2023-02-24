@@ -30,4 +30,15 @@
 - Uddok O Uddokta Japan, [Frontend-Intern], [6months]<br />
   I designed their Frontend. Technologies used: [ReactJS,HTML,CSS
   ].
+  
+  ## 🎓 Education
+- North South University,Bangladesh, [BS CSE], [2018-2022]
+
+
+## 📚 Training
+- [Training & Internship in AR-VR -FTFL training
+of LICT]
+- [Complete Web Development- Programming Hero ]
+
+
 
